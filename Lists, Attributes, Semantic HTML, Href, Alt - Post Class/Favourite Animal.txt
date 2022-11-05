@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+
+    <body>
+       <img src = "https://st2.depositphotos.com/3651755/7007/i/450/depositphotos_70079001-stock-photo-wildlife-found-on-safari.jpg"
+      alt = "Elephant" height = "320" width = "240" />
+    </body>
+</html>
