@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Portfolio Page </title>
+    </head>
+    <body>
+        <img src="https://newsmeter.in/wp-content/uploads/2020/09/Nazriya-Nazim.jpg" width ="240" alt="Error loading image">
+        <br>
+        <h1>LEELA KUMARI</h1>
+        <label for="linkedin profile"> Linkedin Profile </label>
+        <a href="https://www.linkedin.com/in/amit-kumar-mishra-87aabb18/" target="_blank"> Go to my Linkedin </a>
+        <br>
+        <section id="skills">
+            <h2> Skills </h2>
+            <ol>
+                <li> Communication Skills </li>
+                <li> Basics of the Backend </li>
+                <li> HTML/CSS Skills </li>
+                <li> JavaScript Skills </li>
+                <li> Web Design Skills </li>
+            </ol>
+        </section>
+        <section id="projects">
+            <h2> Projects </h2>
+            <ul>
+                <li> Car Sign-up form </li>
+                <li> Front-end Sign in Page </li>
+                <li> Submit Button </li>
+                <li> Html form </li>
+                <li> Newton Registration form </li>
+            </ul>
+        </section>
+    </body>
+</html>
+
+
+//CSS
+h1{
+    color: palevioletred;
+}
+
+h2{
+    color: rgb(88, 150, 103);
+}
+li{
+color:blueviolet
+}
