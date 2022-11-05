@@ -1,0 +1,41 @@
+<!DOCTYPE html >
+<html lang="en">
+    <head>
+
+        </head>
+        <body>
+            <header>
+                <h1>DEVDAS</h1>
+                </header>
+                <main>
+                    <nav>
+<a href="#actor" id="nav-actor"> Actors </a>
+<a href="#quote" id="nav-quote"> Quotes </a>
+             </nav>
+
+            <details>
+             <summary>
+             <p> Devdas loves Paro and addicted to drinks</p>
+                        </summary>
+                        </details>
+
+                        <section id="actor">
+                            <p> Shah rukh Khan, Maduri Dixit </p>
+
+                        </section>
+                        <section id="quote">
+                            <p> devdas likes paro  </p>
+                            
+                        </section>
+                        <aside>
+                            <h5> IMDB Ratings : 8/10 </h5>
+                            <h5> Release Date : 2002 </h5>
+                        </aside>
+
+
+                    </main>
+                <footer> 
+                    <p>Produced by: Sanjay leela bhansali</p>
+                    </footer>
+            </body>
+    </html>
